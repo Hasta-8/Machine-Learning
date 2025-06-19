@@ -1,7 +1,7 @@
 # Machine-Learning
 Implementation of Basic to Advanced Machine Learning Models
 
-# 🚀 AI/ML/GenAI Portfolio by Debadri Chatterjee
+# 🚀 ML Portfolio by Debadri Chatterjee
 
 Welcome to my portfolio repository! This space showcases a curated collection of machine learning projects built to demonstrate my skills as a future-ready AI Engineer.
 
